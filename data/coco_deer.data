@@ -1,0 +1,4 @@
+classes=81
+train=data/coco_deer.txt
+valid=data/coco_deer.txt
+names=data/coco.names
